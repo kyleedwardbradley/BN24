@@ -2,7 +2,7 @@
 Re-analysis of Bletery and Nocquet (2024, submitted)
 
 This code reproduces figures for the following Earthquake Insights post:
-http://
+https://earthquakeinsights.substack.com/p/precursory-slip-before-large-earthquakes
 
 
 Important links:
