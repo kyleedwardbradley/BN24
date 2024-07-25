@@ -19,5 +19,7 @@ To run this code, you will need to first follow the instructions at these two se
 https://zenodo.org/records/8064086 Contains data and scripts from BN23
 https://zenodo.org/records/11198744 (Version 1 contains important data ZIP files)
 https://zenodo.org/records/11371894 (Version 2 contains the updated BN24 scripts)
-Please note that the code re-loads and re-calculates stacks differently in different sections. Direct any questions to Kyle Bradley - geokyle[at]gmail.com
+Please note that the code re-loads and re-calculates stacks differently in different sections. 
+
+Direct any questions to Kyle Bradley - geokyle[at]gmail.com
 
